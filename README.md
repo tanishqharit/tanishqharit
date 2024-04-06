@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanishqharit
-- 👀 I’m interested in Web Development and Open source
-- 🌱 I’m currently learning React.js, Node.js, and MongoDB
-- 💞️ I’m looking to collaborate on API based projects
+- 👀 I’m interested in building machine learning models.
+- 🌱 I’m currently learning Python, SQL and Machine Learning Algorithms.
 - 📫 How to reach me (Email: harit.tani@gmail.com) (Mobile: +91 9870512939)
 
 <!---
